@@ -45,7 +45,7 @@ No external libraries are required — the game uses only Python’s built-in `t
 1. Clone the repository:
    ```bash
    git clone https://github.com/sahaasmita60-ship-it/Snake-Game-Turtle.git
-exit
+
 2.Run the game:
  ```bash
 python main.py
